@@ -1,0 +1,90 @@
+==> Building model..
+==> Resuming from checkpoint..
+==> loading checkpoint sysu_id_bn_relu_drop_0.0_lr_1.0e-02_dim_512_whc_0.5_thd_0_pimg_8_ds_l2_md_indoor_resnet50_best.t
+==> loaded checkpoint sysu_id_bn_relu_drop_0.0_lr_1.0e-02_dim_512_whc_0.5_thd_0_pimg_8_ds_l2_md_indoor_resnet50_best.t (epoch 46)
+==> Loading data..
+Dataset statistics:
+  ------------------------------
+  subset   | # ids | # images
+  ------------------------------
+  query    |    96 |     3803
+  gallery  |    56 |     1120
+  ------------------------------
+Data Loading Time:	 15.460
+Extracting Query Feature...
+Extracting Time:	 15.543
+Extracting Gallery Feature...
+Extracting Time:	 3.462
+Test Trial: 0
+FC: top-1: 75.63% | top-5: 95.20% | top-10: 98.55%| top-20: 99.77%
+mAP: 64.66%
+POOL5: top-1: 63.50% | top-5: 88.68% | top-10: 94.88%| top-20: 98.51%
+mAP: 46.63%
+Extracting Gallery Feature...
+Extracting Time:	 3.181
+Test Trial: 1
+FC: top-1: 75.59% | top-5: 94.84% | top-10: 98.69%| top-20: 99.64%
+mAP: 63.93%
+POOL5: top-1: 65.35% | top-5: 89.18% | top-10: 94.29%| top-20: 97.69%
+mAP: 45.18%
+Extracting Gallery Feature...
+Extracting Time:	 3.450
+Test Trial: 2
+FC: top-1: 76.95% | top-5: 96.38% | top-10: 99.09%| top-20: 99.73%
+mAP: 64.48%
+POOL5: top-1: 63.86% | top-5: 89.81% | top-10: 94.88%| top-20: 98.46%
+mAP: 45.49%
+Extracting Gallery Feature...
+Extracting Time:	 3.322
+Test Trial: 3
+FC: top-1: 76.49% | top-5: 96.74% | top-10: 98.87%| top-20: 99.73%
+mAP: 63.80%
+POOL5: top-1: 64.09% | top-5: 89.54% | top-10: 95.15%| top-20: 98.87%
+mAP: 44.93%
+Extracting Gallery Feature...
+Extracting Time:	 3.250
+Test Trial: 4
+FC: top-1: 75.82% | top-5: 95.83% | top-10: 98.87%| top-20: 99.73%
+mAP: 64.69%
+POOL5: top-1: 63.18% | top-5: 89.31% | top-10: 95.24%| top-20: 98.82%
+mAP: 46.23%
+Extracting Gallery Feature...
+Extracting Time:	 3.434
+Test Trial: 5
+FC: top-1: 74.23% | top-5: 95.47% | top-10: 98.69%| top-20: 99.82%
+mAP: 63.97%
+POOL5: top-1: 63.45% | top-5: 89.18% | top-10: 94.38%| top-20: 98.19%
+mAP: 45.38%
+Extracting Gallery Feature...
+Extracting Time:	 3.408
+Test Trial: 6
+FC: top-1: 75.45% | top-5: 95.65% | top-10: 98.69%| top-20: 99.73%
+mAP: 64.45%
+POOL5: top-1: 64.04% | top-5: 89.36% | top-10: 95.02%| top-20: 98.69%
+mAP: 45.98%
+Extracting Gallery Feature...
+Extracting Time:	 3.336
+Test Trial: 7
+FC: top-1: 77.04% | top-5: 96.78% | top-10: 99.00%| top-20: 99.77%
+mAP: 64.68%
+POOL5: top-1: 65.08% | top-5: 90.13% | top-10: 94.84%| top-20: 97.74%
+mAP: 46.16%
+Extracting Gallery Feature...
+Extracting Time:	 3.393
+Test Trial: 8
+FC: top-1: 75.23% | top-5: 95.52% | top-10: 98.87%| top-20: 99.77%
+mAP: 64.05%
+POOL5: top-1: 63.00% | top-5: 88.86% | top-10: 94.38%| top-20: 98.10%
+mAP: 45.30%
+Extracting Gallery Feature...
+Extracting Time:	 3.253
+Test Trial: 9
+FC: top-1: 75.59% | top-5: 95.29% | top-10: 98.78%| top-20: 99.64%
+mAP: 64.59%
+POOL5: top-1: 65.72% | top-5: 89.40% | top-10: 95.20%| top-20: 99.05%
+mAP: 46.40%
+All Average:
+FC: top-1: 75.80% | top-5: 95.77% | top-10: 98.81%| top-20: 99.73%
+mAP: 64.33%
+POOL5: top-1: 64.13% | top-5: 89.34% | top-10: 94.83%| top-20: 98.41%
+mAP: 45.77%

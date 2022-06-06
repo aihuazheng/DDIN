@@ -1,0 +1,18 @@
+==> LWPA_Dy_HU
+==> Loading data..
+Dataset sysu statistics:
+  ------------------------------
+  subset   | # ids | # images
+  ------------------------------
+  visible  |   395 |    22258
+  thermal  |   395 |    11909
+  ------------------------------
+  query    |    96 |     3803
+  gallery  |    96 |      301
+  ------------------------------
+Data Loading Time:	 22.253
+==> Building model..
+==> Start Training...
+==> Preparing Data Loader...
+Epoch: [0][0/2782] Time: 1.041 (1.041) Data: 0.355 (0.355) lr:0.001 Loss: 6.0986 (6.0986) Accu: 0.00
+Epoch: [0][10/2782] Time: 0.376 (0.446) Data: 0.007 (0.040) lr:0.001 Loss: 6.1235 (6.0815) Accu: 9.09

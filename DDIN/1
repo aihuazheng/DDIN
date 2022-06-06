@@ -1,0 +1,26 @@
+nohup: 忽略输入
+In /home/fengmengya/anaconda3/envs/pythorch/lib/python3.7/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: 
+The text.latex.preview rcparam was deprecated in Matplotlib 3.3 and will be removed two minor releases later.
+In /home/fengmengya/anaconda3/envs/pythorch/lib/python3.7/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: 
+The mathtext.fallback_to_cm rcparam was deprecated in Matplotlib 3.3 and will be removed two minor releases later.
+In /home/fengmengya/anaconda3/envs/pythorch/lib/python3.7/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: Support for setting the 'mathtext.fallback_to_cm' rcParam is deprecated since 3.3 and will be removed two minor releases later; use 'mathtext.fallback : 'cm' instead.
+In /home/fengmengya/anaconda3/envs/pythorch/lib/python3.7/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: 
+The validate_bool_maybe_none function was deprecated in Matplotlib 3.3 and will be removed two minor releases later.
+In /home/fengmengya/anaconda3/envs/pythorch/lib/python3.7/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: 
+The savefig.jpeg_quality rcparam was deprecated in Matplotlib 3.3 and will be removed two minor releases later.
+In /home/fengmengya/anaconda3/envs/pythorch/lib/python3.7/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: 
+The keymap.all_axes rcparam was deprecated in Matplotlib 3.3 and will be removed two minor releases later.
+In /home/fengmengya/anaconda3/envs/pythorch/lib/python3.7/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: 
+The animation.avconv_path rcparam was deprecated in Matplotlib 3.3 and will be removed two minor releases later.
+In /home/fengmengya/anaconda3/envs/pythorch/lib/python3.7/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: 
+The animation.avconv_args rcparam was deprecated in Matplotlib 3.3 and will be removed two minor releases later.
+usage: train_nody_hus3.py [-h] [--dataset DATASET] [--lr LR] [--optim OPTIM]
+                          [--arch ARCH] [--resume RESUME] [--test-only]
+                          [--model_path MODEL_PATH] [--save_epoch s]
+                          [--log_path LOG_PATH] [--workers N] [--low-dim D]
+                          [--img_w imgw] [--img_h imgh] [--batch-size B]
+                          [--test-batch tb] [--method m] [--drop drop]
+                          [--trial t] [--gpu GPU] [--mode MODE]
+                          [--per_img PER_IMG] [--w_hc W_HC] [--thd THD]
+                          [--epochs EPOCHS] [--dist-type DIST_TYPE]
+train_nody_hus3.py: error: unrecognized arguments: 2

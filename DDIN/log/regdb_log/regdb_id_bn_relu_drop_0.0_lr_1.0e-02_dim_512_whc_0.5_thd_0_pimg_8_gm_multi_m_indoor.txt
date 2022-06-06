@@ -1,0 +1,20 @@
+==> loading checkpoint regdb_id_bn_relu_drop_0.0_lr_1.0e-02_dim_512_whc_0.5_thd_0_pimg_8_ds_l2_md_all_resnet50_trial_1_best.t
+==> loaded checkpoint regdb_id_bn_relu_drop_0.0_lr_1.0e-02_dim_512_whc_0.5_thd_0_pimg_8_ds_l2_md_all_resnet50_trial_1_best.t (epoch 24)
+==> Loading data..
+Dataset statistics:
+  ------------------------------
+  subset   | # ids | # images
+  ------------------------------
+  query    |   206 |     2060
+  gallery  |   206 |     2060
+  ------------------------------
+Data Loading Time:	 19.306
+Extracting Query Feature...
+Extracting Time:	 9.940
+Extracting Gallery Feature...
+Extracting Time:	 5.493
+Test Trial: 1
+FC: top-1: 86.17% | top-5: 94.37% | top-10: 97.14%| top-20: 98.64%
+mAP: 74.72%
+POOL5: top-1: 90.58% | top-5: 97.38% | top-10: 98.74%| top-20: 99.61%
+mAP: 69.94%

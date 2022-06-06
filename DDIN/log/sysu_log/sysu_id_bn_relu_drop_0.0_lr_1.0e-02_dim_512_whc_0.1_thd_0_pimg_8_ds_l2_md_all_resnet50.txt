@@ -1,0 +1,60 @@
+Test Epoch: 2
+FC:   Rank-1: 35.39% | Rank-10: 79.67% | Rank-20: 90.45%| mAP: 35.44%
+Test Epoch: 4
+FC:   Rank-1: 41.28% | Rank-10: 85.62% | Rank-20: 93.56%| mAP: 40.24%
+Test Epoch: 6
+FC:   Rank-1: 46.70% | Rank-10: 85.27% | Rank-20: 92.82%| mAP: 44.49%
+Test Epoch: 8
+FC:   Rank-1: 43.07% | Rank-10: 84.28% | Rank-20: 92.64%| mAP: 43.00%
+Test Epoch: 10
+FC:   Rank-1: 45.99% | Rank-10: 86.64% | Rank-20: 93.93%| mAP: 45.01%
+Test Epoch: 12
+FC:   Rank-1: 47.80% | Rank-10: 86.91% | Rank-20: 94.40%| mAP: 46.22%
+Test Epoch: 14
+FC:   Rank-1: 49.99% | Rank-10: 88.75% | Rank-20: 95.00%| mAP: 48.68%
+Test Epoch: 16
+FC:   Rank-1: 50.57% | Rank-10: 87.51% | Rank-20: 94.40%| mAP: 47.61%
+Test Epoch: 18
+FC:   Rank-1: 49.75% | Rank-10: 87.56% | Rank-20: 94.85%| mAP: 48.91%
+Test Epoch: 20
+FC:   Rank-1: 48.75% | Rank-10: 87.67% | Rank-20: 94.06%| mAP: 48.03%
+Test Epoch: 22
+FC:   Rank-1: 51.28% | Rank-10: 87.64% | Rank-20: 94.61%| mAP: 49.01%
+Test Epoch: 24
+FC:   Rank-1: 51.22% | Rank-10: 88.51% | Rank-20: 95.19%| mAP: 49.83%
+Test Epoch: 26
+FC:   Rank-1: 51.06% | Rank-10: 87.98% | Rank-20: 94.53%| mAP: 49.42%
+Test Epoch: 28
+FC:   Rank-1: 49.65% | Rank-10: 88.38% | Rank-20: 94.82%| mAP: 49.10%
+Test Epoch: 30
+FC:   Rank-1: 51.25% | Rank-10: 88.11% | Rank-20: 94.87%| mAP: 50.25%
+Test Epoch: 32
+FC:   Rank-1: 51.38% | Rank-10: 88.27% | Rank-20: 94.90%| mAP: 50.59%
+Test Epoch: 34
+FC:   Rank-1: 51.41% | Rank-10: 88.11% | Rank-20: 94.50%| mAP: 50.46%
+Test Epoch: 36
+FC:   Rank-1: 51.80% | Rank-10: 88.06% | Rank-20: 94.69%| mAP: 50.76%
+Test Epoch: 38
+FC:   Rank-1: 51.06% | Rank-10: 88.69% | Rank-20: 94.61%| mAP: 50.53%
+Test Epoch: 40
+FC:   Rank-1: 51.51% | Rank-10: 88.54% | Rank-20: 94.98%| mAP: 50.79%
+Test Epoch: 42
+FC:   Rank-1: 51.49% | Rank-10: 88.67% | Rank-20: 95.24%| mAP: 50.98%
+Test Epoch: 44
+FC:   Rank-1: 51.46% | Rank-10: 88.67% | Rank-20: 94.85%| mAP: 50.86%
+Test Epoch: 46
+FC:   Rank-1: 51.14% | Rank-10: 88.72% | Rank-20: 95.21%| mAP: 50.87%
+Test Epoch: 48
+FC:   Rank-1: 50.91% | Rank-10: 88.11% | Rank-20: 94.56%| mAP: 50.51%
+Test Epoch: 50
+FC:   Rank-1: 51.64% | Rank-10: 88.61% | Rank-20: 94.90%| mAP: 50.94%
+Test Epoch: 52
+FC:   Rank-1: 51.49% | Rank-10: 88.69% | Rank-20: 95.06%| mAP: 50.91%
+Test Epoch: 54
+FC:   Rank-1: 51.80% | Rank-10: 88.56% | Rank-20: 95.19%| mAP: 51.21%
+Test Epoch: 56
+FC:   Rank-1: 51.17% | Rank-10: 88.54% | Rank-20: 94.82%| mAP: 50.87%
+Test Epoch: 58
+FC:   Rank-1: 51.30% | Rank-10: 88.09% | Rank-20: 94.50%| mAP: 50.52%
+Test Epoch: 60
+FC:   Rank-1: 50.83% | Rank-10: 88.80% | Rank-20: 95.14%| mAP: 50.87%

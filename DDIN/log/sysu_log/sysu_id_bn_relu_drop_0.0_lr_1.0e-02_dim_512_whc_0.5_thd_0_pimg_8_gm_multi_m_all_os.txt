@@ -1,0 +1,15 @@
+==> LWPA_Dy_2014_Hu_all_multi
+==> Building model..
+==> Resuming from checkpoint..
+==> loading checkpoint sysu_id_bn_relu_drop_0.0_lr_1.0e-02_dim_512_whc_0.5_thd_0_pimg_8_ds_l2_md_all_resnet50_best.t
+==> loaded checkpoint sysu_id_bn_relu_drop_0.0_lr_1.0e-02_dim_512_whc_0.5_thd_0_pimg_8_ds_l2_md_all_resnet50_best.t (epoch 56)
+==> Loading data..
+Dataset statistics:
+  ------------------------------
+  subset   | # ids | # images
+  ------------------------------
+  query    |    96 |     3803
+  gallery  |    96 |     3010
+  ------------------------------
+Data Loading Time:	 23.100
+Extracting Query Feature...

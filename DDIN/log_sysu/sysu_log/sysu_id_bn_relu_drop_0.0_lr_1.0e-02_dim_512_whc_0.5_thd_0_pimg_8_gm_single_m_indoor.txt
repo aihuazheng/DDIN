@@ -1,0 +1,66 @@
+==> loading checkpoint sysu_id_bn_relu_drop_0.0_lr_1.0e-02_dim_512_whc_0.5_thd_0_pimg_8_ds_l2_md_indoor_resnet50_best.t
+==> loaded checkpoint sysu_id_bn_relu_drop_0.0_lr_1.0e-02_dim_512_whc_0.5_thd_0_pimg_8_ds_l2_md_indoor_resnet50_best.t (epoch 46)
+==> Loading data..
+Dataset statistics:
+  ------------------------------
+  subset   | # ids | # images
+  ------------------------------
+  query    |    96 |     3803
+  gallery  |    56 |      112
+  ------------------------------
+Data Loading Time:	 20.758
+Extracting Query Feature...
+Extracting Time:	 15.084
+Extracting Gallery Feature...
+Extracting Time:	 1.808
+Test Trial: 0
+FC: top-1: 62.82% | top-5: 90.90% | top-10: 95.24%| top-20: 98.10%
+mAP: 68.59%
+Extracting Gallery Feature...
+Extracting Time:	 0.728
+Test Trial: 1
+FC: top-1: 61.23% | top-5: 88.72% | top-10: 95.38%| top-20: 98.46%
+mAP: 68.47%
+Extracting Gallery Feature...
+Extracting Time:	 0.831
+Test Trial: 2
+FC: top-1: 64.95% | top-5: 90.22% | top-10: 95.20%| top-20: 98.05%
+mAP: 71.27%
+Extracting Gallery Feature...
+Extracting Time:	 0.873
+Test Trial: 3
+FC: top-1: 62.55% | top-5: 88.00% | top-10: 94.47%| top-20: 98.14%
+mAP: 69.24%
+Extracting Gallery Feature...
+Extracting Time:	 0.906
+Test Trial: 4
+FC: top-1: 63.09% | top-5: 90.67% | top-10: 95.74%| top-20: 99.14%
+mAP: 70.98%
+Extracting Gallery Feature...
+Extracting Time:	 0.844
+Test Trial: 5
+FC: top-1: 62.68% | top-5: 91.62% | top-10: 97.96%| top-20: 99.68%
+mAP: 70.28%
+Extracting Gallery Feature...
+Extracting Time:	 0.807
+Test Trial: 6
+FC: top-1: 62.59% | top-5: 87.77% | top-10: 94.79%| top-20: 98.73%
+mAP: 69.05%
+Extracting Gallery Feature...
+Extracting Time:	 0.803
+Test Trial: 7
+FC: top-1: 61.68% | top-5: 90.90% | top-10: 96.97%| top-20: 99.50%
+mAP: 69.27%
+Extracting Gallery Feature...
+Extracting Time:	 0.706
+Test Trial: 8
+FC: top-1: 63.18% | top-5: 89.76% | top-10: 95.24%| top-20: 99.14%
+mAP: 69.55%
+Extracting Gallery Feature...
+Extracting Time:	 0.678
+Test Trial: 9
+FC: top-1: 62.18% | top-5: 89.31% | top-10: 96.20%| top-20: 99.46%
+mAP: 69.74%
+All Average:
+FC: top-1: 62.69% | top-5: 89.79% | top-10: 95.72%| top-20: 98.84%
+mAP: 69.64%

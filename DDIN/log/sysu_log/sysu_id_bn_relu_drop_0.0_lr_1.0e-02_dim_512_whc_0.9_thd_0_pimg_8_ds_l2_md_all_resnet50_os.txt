@@ -1,0 +1,22 @@
+==> sysu_LWPA_w_0_9..
+==> Loading data..
+Dataset sysu statistics:
+  ------------------------------
+  subset   | # ids | # images
+  ------------------------------
+  visible  |   395 |    22258
+  thermal  |   395 |    11909
+  ------------------------------
+  query    |    96 |     3803
+  gallery  |    96 |      301
+  ------------------------------
+Data Loading Time:	 23.995
+==> Building model..
+==> Start Training...
+==> Preparing Data Loader...
+> /home/fengmengya/project/Hetero-center-loss-for-cross-modality-person-re-id-master/model_LWPA.py(264)forward()
+-> layer_attr = self.wpa(x_r, r_s3, 1, 3)
+(Pdb) torch.Size([96, 1024, 1, 1])
+(Pdb) torch.Size([32, 1024])
+(Pdb) torch.Size([64, 2048])
+(Pdb) 

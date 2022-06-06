@@ -1,0 +1,16 @@
+..........regdb_Dynamic_HU_s3......................
+==> Loading data..
+Dataset regdb statistics:
+  ------------------------------
+  subset   | # ids | # images
+  ------------------------------
+  visible  |   206 |     2060
+  thermal  |   206 |     2060
+  ------------------------------
+  query    |   206 |     2060
+  gallery  |   206 |     2060
+  ------------------------------
+Data Loading Time:	 50.296
+==> Building model..
+==> Start Training...
+==> Preparing Data Loader...
